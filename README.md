@@ -78,7 +78,7 @@ void loop()
 3. ![](https://github.com/DiegoLlampallas/ULTRASONICODHT22/blob/main/26.png?raw=true)
 
 
-## Libreria
+## Librerias
 ![](https://github.com/DiegoLlampallas/ULTRASONICODHT22/blob/main/22.png?raw=true)
 
 ## Conexión
